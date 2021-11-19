@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'project-with-seo';
+
+
+  newFunction(){
+    console.log("test");
+  }
 }
